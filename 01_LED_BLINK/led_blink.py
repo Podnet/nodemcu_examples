@@ -1,3 +1,5 @@
+# Code to blink the LED on NodeMCU (ESP8266).
+
 import machine, time
 
 led = machine.Pin(2, machine.Pin.OUT)

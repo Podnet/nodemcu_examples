@@ -1,9 +1,9 @@
-# 01_LED_BLINK
+# 02_WiFi_CONNECT
 To run the program use the following ampy command
 
 ## MAC OS
 ```bash
-    ampy --port /dev/tty.SLAB_USBtoUART run led_blink.py
+    ampy --port /dev/tty.SLAB_USBtoUART run wifi_connect.py
 ```
 
 ## Linux
