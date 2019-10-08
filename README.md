@@ -1,1 +1,1 @@
-![](/static/images/Logo/Podnet_Bangalore 1.png)
+![](https://thepodnet.com/images/logo/logo-podnet-new.png)
