@@ -1,8 +1,4 @@
-![](/static/images/Logo/Podnet_Bangalore-1.png)
-
-# The Podnet
-
-<br>
+<img src="/static/images/Logo/Podnet_Bangalore-1.png" alt="The Podnet" style="display: block;margin-left: auto;margin-right: auto;">
 
 ## About Us:
 
