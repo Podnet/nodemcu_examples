@@ -1,4 +1,4 @@
-![](/static/images/Logo/Podnet_Bangalore-1.png)
+![](/static/images/Cover-Images/Podnet-LinkedIn-Banner.png)
 
 # The Podnet
 
