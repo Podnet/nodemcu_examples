@@ -1,1 +1,1 @@
-![](/static/images/Podnet_Bangalore 1.png)
+![](/static/images/Logo/Podnet_Bangalore 1.png)
