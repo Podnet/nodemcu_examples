@@ -9,7 +9,7 @@ Podnet is a communication network provider for IoT devices. IoT developers/compa
 - **Set up**
     - [Using it on Mac OS Mojave and higher](https://blog.thepodnet.com/set-up-micropython-on-nodemcu-on-macos-mojave-and-higher/)
     - [Using it on GNU Linux](https://blog.thepodnet.com/getting-started-with-nodemcu-esp8266-on-linux/)
-    - Using it on Windows (Coming Soon)
+    - [Using it on Windows](https://blog.thepodnet.com/getting-started-on-winows-with-micropython-and-node-mcu8266/)
 - [Ampy](https://blog.thepodnet.com/getting-started-with-ampy/)
 - **Quick Testing**
 - **Examples**
