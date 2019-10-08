@@ -6,13 +6,13 @@ Podnet is a communication network provider for IoT devices. IoT developers/compa
 
 ## Using NodeMCU on your System
 
-- Set up
+- **Set up**
     - [Using it on Mac OS Mojave and higher](https://blog.thepodnet.com/set-up-micropython-on-nodemcu-on-macos-mojave-and-higher/)
     - [Using it on GNU Linux](https://blog.thepodnet.com/getting-started-with-nodemcu-esp8266-on-linux/)
     - Using it on Windows (Coming Soon)
 - [Ampy](https://blog.thepodnet.com/getting-started-with-ampy/)
-- Quick Testing
-- Examples
+- **Quick Testing**
+- **Examples**
      1. [LED Blink](https://github.com/ramanaditya/nodemcu_examples/tree/master/01_LED_BLINK)
      2. [WiFi Connect](https://github.com/ramanaditya/nodemcu_examples/tree/master/02_WiFi_CONNECT)
      3. [RGB LED](https://github.com/ramanaditya/nodemcu_examples/tree/master/03_RGB_LED)
