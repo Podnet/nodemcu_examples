@@ -1,8 +1,8 @@
-# 04_ACCESS_POINT
+# 05_LED_Control_Using_WiFi
 To run the program use the following ampy command
 
 ## Pre-requisite
-- This program is for controlling RGB LED using NodeMCU
+- This program is for controlling RGB LED using your Browser
 - Run this program after setting up the hardware part. For more information visit : [Controlling RGB LED using NOdeMCU](https://blog.thepodnet.com/nodemcu-rgb-led-using-micropython/)
 
 ## MAC OS
